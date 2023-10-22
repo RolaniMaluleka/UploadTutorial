@@ -5,6 +5,12 @@
     padding-top: 2rem;
 
     .linkedInBtn{
-        background-color: rgb(255, 71, 71);
+        height: 11%;
+        padding-top: 2%;
+        margin-top: 5rem;
+        background-color: rgb(234, 234, 234);
+        .btn{
+           margin-left: 12rem;
+        }
     }
 }
